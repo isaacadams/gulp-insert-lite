@@ -1,11 +1,11 @@
 {
   "name": "gulp-insert-lite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "prepend text to files",
   "homepage": "https://github.com/isaacadams/gulp-insert-lite/tree/master",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/isaacadams/gulp-insert-lite.git"
+    "type": "git",
+    "url": "https://github.com/isaacadams/gulp-insert-lite.git"
   },
   "main": "index.js",
   "scripts": {
