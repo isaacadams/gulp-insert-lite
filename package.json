@@ -1,0 +1,17 @@
+{
+  "name": "gulp-insert-lite",
+  "version": "1.0.0",
+  "description": "prepend text to files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prepend"
+  ],
+  "author": "Isaac Adams",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
