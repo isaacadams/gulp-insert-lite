@@ -2,6 +2,7 @@
   "name": "gulp-insert-lite",
   "version": "1.0.0",
   "description": "prepend text to files",
+  "homepage": "https://github.com/isaacadams/gulp-insert-lite/tree/master",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
