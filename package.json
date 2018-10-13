@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "prepend text to files",
   "homepage": "https://github.com/isaacadams/gulp-insert-lite/tree/master",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/isaacadams/gulp-insert-lite.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
